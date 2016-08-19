@@ -38,3 +38,7 @@
 @import "components/date_picker/default";
 @import "components/date_picker/default.date";
 @import "components/date_picker/default.time";
+
+.shadow{
+	text-shadow:0.1em 0.1em 0.1em #000;
+}
