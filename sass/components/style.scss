@@ -1,0 +1,23 @@
+$choose-cards-height: 300px;
+
+.page-header{
+	margin-bottom: 30px;	
+}
+
+.score-pic, .profile-pic {
+	height: $choose-cards-height;
+}
+
+
+.page-wrap:after {
+  content: "";
+  display: block;
+}
+
+.page-footer {
+	margin-top:50px;
+}
+
+html, body {
+    height: 100%;
+}

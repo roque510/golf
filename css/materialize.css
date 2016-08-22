@@ -6330,6 +6330,22 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
 @media (min-height: 40.125em) {
   .picker--time .picker__box {
     margin-bottom: 5em; } }
+.page-header {
+  margin-bottom: 30px; }
+
+.score-pic, .profile-pic {
+  height: 300px; }
+
+.page-wrap:after {
+  content: "";
+  display: block; }
+
+.page-footer {
+  margin-top: 50px; }
+
+html, body {
+  height: 100%; }
+
 .shadow {
   text-shadow: 0.1em 0.1em 0.1em #000; }
 

@@ -10,9 +10,10 @@
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/aroquestyle.css" type="text/css" rel="stylesheet" />
 </head>
 <body>
-  <nav class="" role="navigation">
+  <nav class="page-header" role="navigation">
     <div class="nav-wrapper container">
       <a id="logo-container" href="?pg=inicio" class="brand-logo">Golf</a>
       <ul class="right hide-on-med-and-down">
@@ -25,6 +26,7 @@
       <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
     </div>
   </nav>
+  <div class="page-wrap">
 
   <?php
 
@@ -40,6 +42,8 @@
   }
 
   ?>
+
+  </div>
 
   <footer class="page-footer" >
     <div class="container">
