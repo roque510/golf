@@ -7,7 +7,7 @@
           <h5 class="header white-text shadow col s12 light">A modern responsive front-end framework based on Material Design</h5>
         </div>
         <div class="row center">
-          <a href="?pg=perfil" id="download-button" class="btn-large waves-effect waves-light ">Get Started</a>
+          <a href="?pg=choose" id="download-button" class="btn-large waves-effect waves-light ">Get Started</a>
         </div>
         <br><br>
 
